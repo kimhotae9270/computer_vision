@@ -5,14 +5,12 @@ OpenCV와 Python을 기반으로 이미지 처리, 특징 추출, 매칭, 객체
 
 ---
 
-## 📂 Folder Structure
-- **opencv_basic/** — OpenCV 설치 및 이미지 입출력, 색 공간 변환
-- **image_filtering/** — 블러링, 샤프닝, 컨볼루션 필터 적용
-- **edge_detection/** — Canny, Sobel 등 경계선 검출
-- **feature_matching/** — SIFT, ORB 등을 활용한 특징점 추출 및 매칭
-- **object_detection/** — 간단한 객체 검출 및 인식 실습
-- **classification/** — 기초적인 이미지 분류 실습 (예: k-NN, 간단한 CNN)
+## 📂 Folder Overview
 
+- **affine_transformation/** — 아핀 변환(Affine Transformation) 실습 코드  
+- **corner_detection/** — 코너 디텍션(코너 특징 추출) 실습 코드  
+- **sobel_filter/** — Sobel 필터를 이용한 엣지(경계선) 검출  
+- **sharpening/** — 이미지 샤프닝(선명화) 처리 실습
 
 ---
 
